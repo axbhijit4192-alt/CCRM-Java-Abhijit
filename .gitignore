@@ -1,0 +1,6 @@
+build-check*/
+data/
+out/
+*.class
+.idea/
+.vscode/
