@@ -9,3 +9,8 @@ Add genuine screenshots from your own machine before final submission:
 Do not replace these with fabricated images.
 
 Only screenshots that demonstrate this CCRM Java project belong in this folder.
+
+Included repository evidence:
+
+- public-repository.png - public GitHub repository overview
+- public-repository-clean-history.png - clean Abhijit-authored commit and uploaded folders

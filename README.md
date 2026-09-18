@@ -162,7 +162,14 @@ Add genuine screenshots from your own machine to `screenshots/` before final aca
 4. Program menus and sample operations.
 5. Generated export/backup folder structure.
 
-The checklist in `screenshots/README.txt` tracks the screenshots that still need to be supplied. Unrelated images are intentionally excluded.
+Repository evidence already included:
+
+- [Public repository overview](screenshots/public-repository.png)
+- [Clean history and uploaded folders](screenshots/public-repository-clean-history.png)
+
+![Clean public repository history](screenshots/public-repository-clean-history.png)
+
+The checklist in `screenshots/README.txt` tracks the five environment screenshots that still need to be supplied. Unrelated images are intentionally excluded.
 
 ---
 
